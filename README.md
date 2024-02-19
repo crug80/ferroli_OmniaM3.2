@@ -5,9 +5,7 @@
 [![Community Forum][forum-shield]][forum]
 [![License][license-shield]](LICENSE)
 
-![Project Maintenance][maintenance-shield]
-
-_Integration to integrate with [integration_blueprint][integration_blueprint]._
+_Integration to integrate with [ferroli_omnia_m32][ferroli_omnia_m32]._
 
 **This integration will set up the following platforms.**
 
@@ -37,13 +35,12 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 ***
 
-[integration_blueprint]: https://github.com/crug80/ferroli_OmniaM3.2
-[commits-shield]: https://img.shields.io/github/commit-activity/y/ludeeus/integration_blueprint.svg?style=for-the-badge
-[commits]: https://github.com/ludeeus/integration_blueprint/commits/main
+[ferroli_omnia_m32]: https://github.com/crug80/ferroli_OmniaM3.2
+[commits-shield]: https://img.shields.io/github/commit-activity/y/crug80/ferroli_OmniaM3.2
+[commits]: https://github.com/crug80/ferroli_OmniaM3.2/commits/main/
 [exampleimg]: example.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-#[license-shield]: https://img.shields.io/github/license/ludeeus/integration_blueprint.svg?#style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Joakim%20Sørensen%20%40ludeeus-blue.svg?style=for-the-badge
+[license-shield]:https://img.shields.io/github/license/crug80/ferroli_OmniaM3.2
 #[releases-shield]: https://img.shields.io/github/release/ludeeus/integration_blueprint.svg?style=for-the-badge
 [releases]: https://github.com/crug80/ferroli_OmniaM3.2/releases

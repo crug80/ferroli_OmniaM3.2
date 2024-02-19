@@ -4,13 +4,13 @@
   "codeowners": [
     "@crug80"
   ],
+  "config_flow": true,
   "dependencies": [
     "modbus"
   ],
-  "config_flow": true,
   "documentation": "https://github.com/crug80/ferroli_OmniaM3.2",
-  "iot_class": "local_polling",
   "integration_type": "hub",
+  "iot_class": "local_polling",
   "issue_tracker": "https://github.com/crug80/ferroli_OmniaM3.2/issues",
   "version": "0.0.1"
 }
