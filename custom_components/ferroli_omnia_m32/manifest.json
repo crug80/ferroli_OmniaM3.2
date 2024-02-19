@@ -1,0 +1,16 @@
+{
+  "domain": "ferroli_omnia_m32",
+  "name": "Ferroli Omnia M 3.2",
+  "codeowners": [
+    "@crug80"
+  ],
+  "dependencies": [
+    "modbus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/crug80/ferroli_OmniaM3.2",
+  "iot_class": "local_polling",
+  "integration_type": "hub",
+  "issue_tracker": "https://github.com/crug80/ferroli_OmniaM3.2/issues",
+  "version": "0.0.1"
+}
